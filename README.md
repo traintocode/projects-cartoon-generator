@@ -1,15 +1,15 @@
-# Pirate GPT
+# Cartoon Generator with DALLE-3
 
-> Solution to the project [traintocode.com/projects/pirate-gpt](https://traintocode.com/projects/pirate-gpt/)
+> Solution to the project [traintocode.com/projects/cartoon-generator](https://traintocode.com/projects/cartoon-generator/)
 
 ## Running Locally
 
 Clone this repository
 
 ```sh
-git clone https://github.com/traintocode/projects-pirate-gpt.git
+git clone https://github.com/traintocode/projects-cartoon-generator.git
 
-cd projects-pirate-gpt
+cd projects-cartoon-generator
 ```
 
 This project consists of two parts.
