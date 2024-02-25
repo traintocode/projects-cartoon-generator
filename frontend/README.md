@@ -1,6 +1,6 @@
-# Pirate GPT Project - Front End
+# DALLE Cartoon Generator - Front End
 
-This directory contains the front end for the **Pirate GPT Chatbot Project** at [traintocode.com/projects/pirate-gpt](https://traintocode.com/projects/pirate-gpt/).  The front end is build with [https://vitejs.dev/](https://vitejs.dev/) using React and Typescript.
+This directory contains the front end for the **DALLE Cartoon Generator Project** at [traintocode.com/projects/cartoon-generator](https://traintocode.com/projects/cartoon-generator/).  The front end is build with [https://vitejs.dev/](https://vitejs.dev/) using React and Typescript.
 
 ## Running Locally
 
