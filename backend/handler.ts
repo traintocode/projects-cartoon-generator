@@ -21,6 +21,9 @@ export async function main(event: APIGatewayEvent) {
 
     return {
         statusCode: 200,
-        body: result
+        body: result,
+        headers: {
+            ["Access-Control-Allow-Origin"]: "http://localhost:5173"
+        },
     };
 }
