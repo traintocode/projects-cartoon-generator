@@ -1,3 +1,4 @@
+
 .request-form {
   display: flex;
   justify-content: space-between;
@@ -13,4 +14,9 @@
 label[for='subject'] {
     margin-right: 1rem;
     line-height: 2;
+}
+
+.generated-image {
+  margin-top: 1rem;
+  width: 100%;
 }

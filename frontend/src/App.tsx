@@ -8,7 +8,7 @@ function App() {
     const submitForm: React.FormEventHandler = async (e) => {
         e.preventDefault();
         setIsBusy(true);
-        const response = await fetch('https://nvhud4tiusatnwec2cu6zjmxhq0wolld.lambda-url.eu-west-3.on.aws/', {
+        const response = await fetch('https://xxxxxxxxx.lambda-url.eu-west-3.on.aws/', {
             method: 'POST',
             body: JSON.stringify({ subject })
         });
